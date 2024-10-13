@@ -384,3 +384,8 @@ chmod +x insert_data.sh queries.sh
 ls --color=auto -l
 git add insert_data.sh queries.sh
 git add .
+git commit -m "Update scripts and permissions"
+git push origin main
+git add queries.sh
+git add queries.sh README.md
+git add .
